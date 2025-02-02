@@ -15,3 +15,4 @@ def driver():
     driver.get(main_site)
     yield driver
     driver.quit()
+    
